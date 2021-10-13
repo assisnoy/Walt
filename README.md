@@ -1,4 +1,4 @@
-<B>For this exercise you will need to use the following technologies:</b>
+<B>For this exercise you <u>MUST</u> use the following technologies:</b>
 
 Java 8 <br>
 Maven 3.6.* <br>
