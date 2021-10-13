@@ -1,6 +1,6 @@
-<B>For this exercise you <u>MUST</u> use the following technologies:</b>
+<B>For this exercise you MUST use the following technologies:</b>
 
-Java 8 <br>
+Java 8  (lambda expressions, stream etc.) <br>
 Maven 3.6.* <br>
 Spring Boot 2.3.5.RELEASE <br>
 Spring data <br>
