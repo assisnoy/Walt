@@ -14,7 +14,9 @@ import java.util.List;
 
 @Repository
 public interface DeliveryRepository extends CrudRepository<Delivery, Long> {
-
+    List<Delivery> findAllDeliveriesByDriver(Driver driver);
+    Delivery findFirstByDriverAndDeliveryTime(Driver driver, Date date);
+    List<Delivery> findAllDeliveriesByDriver_CityAndDriver(City city, Driver driver);
 }
 
 
